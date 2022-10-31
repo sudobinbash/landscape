@@ -181,7 +181,7 @@ big_picture:
   main:
     tab_index: -1
     url: landscape
-    name: Landscape
+    name: U2C Landscape
     short_name: Land...
     title: CNCF Cloud Native Landscape
     fullscreen_header: Overwhelmed? Please see the CNCF Trail Map. That and the interactive landscape are at l.cncf.io
