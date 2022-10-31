@@ -2145,7 +2145,7 @@ landscape:
             logo: clusterpedia.svg
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
-              accepted: '2022-6-17'
+              accepted: 2022-6-17
               dev_stats_url: https://clusterpedia.devstats.cncf.io/
               slack_url: https://cloud-native.slack.com/messages/clusterpedia
           - item:
@@ -11713,7 +11713,7 @@ landscape:
             name: Infra Technologies (member)
             homepage_url: https://www.infrahq.com/
             logo: infra-technologies.svg
-            crunchbase: https://www.crunchbase.com/organization/infra-technologies-inc        
+            crunchbase: https://www.crunchbase.com/organization/infra-technologies-inc
           - item:
             name: InfraCloud Technologies (member)
             homepage_url: https://www.infracloud.io/kubernetes-consulting-partner/
@@ -11853,7 +11853,7 @@ landscape:
             name: Klotho (member)
             homepage_url: https://www.klo.dev/
             logo: klotho.svg
-            crunchbase: https://www.crunchbase.com/organization/klotho          
+            crunchbase: https://www.crunchbase.com/organization/klotho
           - item:
             name: KodeKloud (member)
             homepage_url: https://kodekloud.com/
@@ -12104,7 +12104,7 @@ landscape:
             name: Memphis.dev (member)
             homepage_url: https://www.memphis.dev/
             logo: memphis.svg
-            crunchbase: https://www.crunchbase.com/organization/memphis-dev       
+            crunchbase: https://www.crunchbase.com/organization/memphis-dev
           - item:
             name: Mercedes Benz AG (member)
             homepage_url: https://group.mercedes-benz.com/
