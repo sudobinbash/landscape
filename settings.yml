@@ -150,7 +150,7 @@ membership:
     funding: CNCF
 home:
   header: >
-    <h1>CNCF Cloud Native Interactive Landscape</h1> The cloud native landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
+    <h1>TSE Cloud Native Interactive Landscape</h1> The cloud native landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
     href="images/landscape.pdf">pdf</a>), serverless landscape (<a target="_blank" href="images/serverless.png">png</a>, <a target="_blank"
     href="images/serverless.pdf">pdf</a>), and member landscape (<a target="_blank" href="images/members.png">png</a>, <a target="_blank"
     href="images/members.pdf">pdf</a>) are dynamically generated below.
@@ -183,7 +183,7 @@ big_picture:
     url: landscape
     name: Landscape
     short_name: Land...
-    title: CNCF Cloud Native Landscape
+    title: U2C
     fullscreen_header: Overwhelmed? Please see the CNCF Trail Map. That and the interactive landscape are at l.cncf.io
     elements:
       - type: HorizontalCategory
