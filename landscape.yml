@@ -4122,6 +4122,25 @@ landscape:
               mailing_list_url: https://nats.io/blog/
               slack_url: >-
                 https://natsio.slack.com/join/shared_invite/enQtMzE2NDkxNDI2NTE1LTc5ZDEzYTkwYWZkYWQ5YjY1MzBjMWZmYzA5OGQxMzlkMGQzMjYxNGM3MWYxMjNiYmNjNzIwMTVjMWE2ZDgxZGM
+              summary_personas: ''
+              summary_tags: messaging,microservices,edge,IoT
+              summary_use_case: ''
+              summary_business_use_case: ''
+              summary_release_rate: ''
+              summary_integration: ''
+              summary_intro_url: https://rethink.synadia.com/episodes/1/
+            project_org: https://github.com/nats-io
+            additional_repos:
+              - repo_url: https://github.com/nats-io/nats.go
+              - repo_url: https://github.com/nats-io/nats.js
+              - repo_url: https://github.com/nats-io/nats.py
+              - repo_url: https://github.com/nats-io/nats.rs
+              - repo_url: https://github.com/nats-io/nats.java
+              - repo_url: https://github.com/nats-io/nats.net
+              - repo_url: https://github.com/nats-io/nats.c
+              - repo_url: https://github.com/nats-io/nats.rb
+              - repo_url: https://github.com/nats-io/nats.ws
+              - repo_url: https://github.com/nats-io/nats.docs
           - item:
             name: OpenMessaging
             description: Cloud-oriented, simple, flexible, vendor-neutral and language-independent standards for messaging
