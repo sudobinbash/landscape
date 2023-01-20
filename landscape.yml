@@ -4141,6 +4141,7 @@ landscape:
               - repo_url: https://github.com/nats-io/nats.rb
               - repo_url: https://github.com/nats-io/nats.ws
               - repo_url: https://github.com/nats-io/nats.docs
+            description: Connective Technology for Adaptive Edge & Distributed Systems
           - item:
             name: OpenMessaging
             description: Cloud-oriented, simple, flexible, vendor-neutral and language-independent standards for messaging
