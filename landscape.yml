@@ -76,7 +76,7 @@ landscape:
             logo: cdk8s.svg
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
-              accepted: '2020-11-10'
+              accepted: '2020-11-12'
               dev_stats_url: https://cdk8s.devstats.cncf.io/
               artwork_url: https://github.com/cncf/artwork/tree/master/projects/cdk8s
               clomonitor_name: cdk8s
