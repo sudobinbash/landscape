@@ -3739,6 +3739,14 @@ landscape:
             repo_url: https://github.com/arangodb/arangodb
             logo: arangodb.svg
             crunchbase: https://www.crunchbase.com/organization/arangodb
+            second_path: Graph, Document, Key-Value, Database, Cloud, Analytics, AQL, Knowledge Graph, GraphML
+            twitter: https://twitter.com/arangodb
+            project_org: https://github.com/arangodb
+            additional_repos:
+              - repo_url: https://github.com/ArangoDB-Community
+            description: ArangoDB is a highly scalable graph database for global enterprises.
+            organization:
+              name: ArangoDB
           - item:
             name: BigchainDB
             homepage_url: https://www.bigchaindb.com/
