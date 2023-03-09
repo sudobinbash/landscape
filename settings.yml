@@ -110,48 +110,7 @@ relation:
     - id: false
       label: Non-CNCF Member Products/Projects
       url: 'no'
-membership:
-  Platinum:
-    name: CNCF
-    label: Platinum Member
-    end_user_label: Platinum End User Member
-    funding: Platinum
-    is_large: true
-  Gold:
-    name: CNCF
-    label: Gold Member
-    end_user_label: Gold End User Member
-    funding: Gold
-    is_large: true
-  Silver:
-    name: CNCF
-    label: Silver Member
-    end_user_label: Silver End User Member
-    funding: Silver
-  Academic:
-    name: CNCF
-    label: Academic Member
-    end_user_label: Academic End User Member
-    funding: Academic
-  Nonprofit:
-    name: CNCF
-    label: Nonprofit Member
-    end_user_label: Nonprofit End User Member
-    funding: Nonprofit
-  End User Supporter:
-    name: CNCF
-    label: End User Supporter
-    funding: End User Supporter
-    enduser: true
-  linux_foundation:
-    name: LF
-    label: Project
-    funding: Linux Foundation
-    crunchbase_and_children: https://www.crunchbase.com/organization/linux-foundation
-  cncf:
-    name: CNCF
-    label: Project
-    funding: CNCF
+membership: {}
 home:
   header: >
     <h1>CNCF Cloud Native Interactive Landscape</h1> The cloud native landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
@@ -198,6 +157,7 @@ big_picture:
         top: 0
         left: 0
         color: rgb(109,61,143)
+        is_large: false
       - type: HorizontalCategory
         category: Orchestration & Management
         rows: 4
@@ -206,6 +166,7 @@ big_picture:
         top: 330
         left: 0
         color: rgb(46,107,46)
+        is_large: false
       - type: HorizontalCategory
         category: Runtime
         rows: 5
@@ -214,6 +175,7 @@ big_picture:
         top: 540
         left: 0
         color: rgb(143,88,61)
+        is_large: false
       - type: HorizontalCategory
         category: Provisioning
         rows: 8
@@ -222,6 +184,7 @@ big_picture:
         top: 805
         left: 0
         color: rgb(46,97,107)
+        is_large: false
       - type: VerticalCategory
         category: Platform
         cols: 9
@@ -230,6 +193,7 @@ big_picture:
         top: 0
         left: 1285
         color: rgb(107,97,46)
+        is_large: false
       - type: VerticalCategory
         category: Observability and Analysis
         cols: 10
@@ -238,6 +202,7 @@ big_picture:
         top: 640
         left: 1285
         color: rgb(107,61,46)
+        is_large: false
       - type: HorizontalCategory
         category: Special
         rows: 10
@@ -246,6 +211,7 @@ big_picture:
         top: 1100
         left: 0
         color: rgb(179,77,77)
+        is_large: false
       - type: LandscapeInfo
         width: 370
         height: 280
@@ -341,6 +307,7 @@ big_picture:
         left: 0
         color: rgb(143,109,61)
         fit_width: true
+        is_large: false
       - type: HorizontalCategory
         category: Framework
         rows: 1
@@ -351,6 +318,7 @@ big_picture:
         fit_width: true
         offset: 10
         color: rgb(102,61,143)
+        is_large: false
       - type: HorizontalCategory
         category: Security
         rows: 1
@@ -361,6 +329,7 @@ big_picture:
         color: rgb(179,94,77)
         fit_width: true
         offset: 40
+        is_large: false
       - type: HorizontalCategory
         category: Hosted Platform
         rows: 2
@@ -370,6 +339,7 @@ big_picture:
         left: 0
         fit_width: true
         color: rgb(83,115,38)
+        is_large: false
       - type: HorizontalCategory
         category: Installable Platform
         rows: 2
@@ -379,6 +349,7 @@ big_picture:
         left: 490
         fit_width: true
         color: rgb(83,115,38)
+        is_large: false
       - type: LandscapeInfo
         width: 520
         height: 120
@@ -452,6 +423,7 @@ big_picture:
         color: '#c5c4c2'
         fit_width: true
         offset: 60
+        is_large: false
       - type: HorizontalCategory
         category: Gold
         rows: 4
@@ -462,6 +434,7 @@ big_picture:
         color: '#D4AF37'
         fit_width: true
         offset: 70
+        is_large: false
       - type: HorizontalCategory
         category: Silver
         rows: 23
@@ -471,6 +444,7 @@ big_picture:
         left: 0
         color: '#909090'
         fit_width: true
+        is_large: false
       - type: HorizontalCategory
         category: End User Supporter
         rows: 15
@@ -481,6 +455,7 @@ big_picture:
         color: rgb(38,115,57)
         fit_width: true
         offset: 40
+        is_large: false
       - type: HorizontalCategory
         category: Nonprofit
         rows: 4
@@ -491,6 +466,7 @@ big_picture:
         color: rgb(143,61,122)
         fit_width: true
         offset: 0
+        is_large: false
       - type: HorizontalCategory
         category: Academic
         rows: 1
@@ -501,6 +477,7 @@ big_picture:
         color: rgb(115,83,38)
         fit_width: true
         offset: 0
+        is_large: false
       - type: LandscapeLink
         url: landscape
         title: Landscape
@@ -568,6 +545,7 @@ big_picture:
         left: 0
         color: rgb(109,61,143)
         fit_width: true
+        is_large: false
       - type: VerticalCategory
         category: Runtime
         width: 180
@@ -576,6 +554,7 @@ big_picture:
         left: 200
         color: rgb(46,107,46)
         fit_width: true
+        is_large: false
       - type: VerticalCategory
         category: Toolchain
         width: 180
@@ -584,6 +563,7 @@ big_picture:
         left: 400
         color: rgb(46,97,107)
         fit_width: true
+        is_large: false
       - type: VerticalCategory
         category: Packaging, Registries & Application Delivery
         width: 180
@@ -592,6 +572,7 @@ big_picture:
         left: 600
         color: rgb(107,97,46)
         fit_width: true
+        is_large: false
       - type: VerticalCategory
         category: Debugging and Observability
         width: 180
@@ -600,6 +581,7 @@ big_picture:
         left: 600
         color: rgb(179,77,77)
         fit_width: true
+        is_large: false
       - type: VerticalCategory
         category: Installable Platform
         width: 180
@@ -608,6 +590,7 @@ big_picture:
         left: 800
         color: rgb(143,109,61)
         fit_width: true
+        is_large: false
       - type: LandscapeInfo
         width: 520
         height: 120
